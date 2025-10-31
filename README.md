@@ -53,3 +53,5 @@
 您的支持是我坚持的动力，感谢！
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yongxin-ms/DisableSogouNetwork&type==Date)](https://star-history.com/#yongxin-ms/DisableSogouNetwork&Date)
+
+使用者感言：非常有用，再加上everything的寻找文件功能，直接把想禁止网络权限的文件一股脑全封住，很好地保护了数据本地使用可能。（当然前提是全找到）
